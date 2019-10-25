@@ -5,9 +5,8 @@
     淘宝买的5.9的模块直接用接线比较麻烦，后来直接买了9.9的W600开发板，调试非常方便
 
 ## 资料收集
-    联盛德 资料 http://docs.thingsturn.com/development/
+    联盛德 资料 https://docs.w600.fun
     官网资料 http://www.winnermicro.com/html/1/156/158/497.html?tdsourcetag=s_pcqq_aiomsg
-    阿里云官网提供模块资料：绿联716201模块连接：链接:https://pan.baidu.com/s/1H5E2VgLKkVc2osfpngis1Q  提取码:  4tr6
     开发板TB-01提供资料：Github源码：https://github.com/w600
     官网网站：https://www.w600.fun
     问答社区：https://ask.w600.fun
@@ -32,6 +31,8 @@
         WM_AT固件
         SPI透传固件
         Soc二次开发固件 这个资料和功能比较全，打算使用这一套进行开发
+
+        
 #### 配网模式
 
     量产时候需要注意天线的强度，2.4G路由器在我右侧，把目标板放到我的左侧就不可以连接，右侧就可以进行连接
